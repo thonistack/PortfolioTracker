@@ -1,0 +1,14 @@
+[
+    {
+        "type": "stock",
+        "name": "Adro",
+        "quantity": 3.0,
+        "purchase_price": 1000.0
+    },
+    {
+        "type": "crypto",
+        "name": "Bitcoin",
+        "quantity": 2.0,
+        "purchase_price": 1000000000000.0
+    }
+]
